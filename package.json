@@ -1,0 +1,45 @@
+{
+  "name": "happy-wedding",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Yamitzky <negiga@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.0.2",
+    "emoji-regex": "^7.0.1",
+    "firebase": "^5.5.5",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.1",
+    "nuxt-class-component": "^1.2.1",
+    "nuxt-property-decorator": "^1.2.0",
+    "uuid": "^3.3.2",
+    "vue-gallery": "^1.5.0",
+    "vue-lazyload": "^1.2.6",
+    "vue-picture-swipe": "^0.4.0",
+    "vuex-class": "^0.3.1",
+    "vuex-type-helper": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "fork-ts-checker-webpack-plugin": "^0.4.15",
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0",
+    "ts-loader": "^5.2.2",
+    "tslint": "^5.11.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.1.3"
+  }
+}
