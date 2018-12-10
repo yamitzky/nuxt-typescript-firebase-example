@@ -1,23 +1,3 @@
-# happy-wedding
+[結婚パーティーのため Nuxt と Firebase でサーバーレスなご祝儀を納品した話 - 病みつきエンジニアブログ](https://yamitzky.hatenablog.com/entry/2018/12/10/232946)
 
-> Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+pages や components などを公開していないため、プロジェクトとしては動きませんが、Firebase や TypeScript、Nuxt のサンプルとして
